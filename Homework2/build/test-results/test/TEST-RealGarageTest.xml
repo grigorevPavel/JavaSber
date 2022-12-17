@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RealGarageTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-12-09T14:11:01" hostname="MacBook-Pro-Pavel-2.local" time="0.031">
+  <properties/>
+  <testcase name="removeCarFromGarageTest()" classname="RealGarageTest" time="0.014"/>
+  <testcase name="meanCarNumberForEachOwnerTest()" classname="RealGarageTest" time="0.004"/>
+  <testcase name="meanOwnersAgeOfCarBrandTest()" classname="RealGarageTest" time="0.001"/>
+  <testcase name="addCarTest()" classname="RealGarageTest" time="0.0"/>
+  <testcase name="allCarsUniqueOwners()" classname="RealGarageTest" time="0.002"/>
+  <testcase name="carsWithPowerMoreThanTest()" classname="RealGarageTest" time="0.002"/>
+  <testcase name="allCarsOfBrandTest()" classname="RealGarageTest" time="0.001"/>
+  <testcase name="allCarsOfOwnerTest()" classname="RealGarageTest" time="0.001"/>
+  <testcase name="topThreeCarsByMaxVelocityTest()" classname="RealGarageTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
